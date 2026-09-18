@@ -2,6 +2,7 @@
 
 **МК — мебельный Калькулятор**
 
+<img width="512" height="512" alt="icon_section_dev" src="https://github.com/user-attachments/assets/a258c4ec-f961-41f2-bf78-60c8b207800c"/>
 
 ##
 |Внимание! Используются следующие наименовании программы:|
